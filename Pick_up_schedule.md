@@ -1,20 +1,18 @@
 # October 26 Pick-Up Schedule
 
-![10_26_pick](10_26_pick.jpg)
-
 🚺 Mrs. Wang 🚺
 🔑 Van B 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 12:00 | Horizon Prep | 1 |
+| 12:00 | Horizon Prep | 2 |
 
 🚹 Mr. Li 🚹
 🔑 Van G 🔑
 
 | Time  | Location  | Number |
 | ----- | --------- | ------ |
-| 12:25 | Adobe Bluffs | 16   |
+| 12:25 | Adobe Bluffs | 15   |
 | 13:15 | Monterey Ridge | 19  |
 
 🚺 Mrs. Wan 🚺
