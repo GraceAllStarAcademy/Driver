@@ -1,3 +1,3 @@
-# October 25 Drop-Off Schedule
+# October 26 Drop-Off Schedule
 
-![10_25_drop](10_25_drop.jpg)
+![10_26_drop](10_26_drop.jpg)
