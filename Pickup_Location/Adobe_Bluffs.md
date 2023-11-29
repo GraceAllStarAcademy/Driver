@@ -3,10 +3,16 @@
 Address: 8707 Adobe Bluffs Dr, San Diego, CA 92129
 
 Maps:
-![Adobe_Bluffs_Map](EB_Scripps.jpg)
+![Adobe_Bluffs_Map](Pickup_Location/Adobe_Bluffs.jpg)
 
 Detail direction:
 
-Park the car by the side of the street shows in the red circle of the map. 
+Park the car by the curb of the drive way shows in the red circle of the map. 
 
-Driver stay by the car, students will come to the car.
+For TK: 
+
+Kids will come out from ***green circle*** area. We have to walk to there to pick up
+
+For K and Up: 
+
+Kids will come out from ***blue circle*** area. We have to stand by the side of the car, students will looking for you and come to the car.

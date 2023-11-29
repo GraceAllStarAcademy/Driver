@@ -3,7 +3,7 @@
 Address: 11778 Cypress Canyon Rd, San Diego, CA 92131
 
 Maps:
-![EB_Scripps_Map](EB_Scripps.jpg)
+![EB_Scripps_Map](ickup_Location/EB_Scripps.jpg)
 
 Detail direction:
 
