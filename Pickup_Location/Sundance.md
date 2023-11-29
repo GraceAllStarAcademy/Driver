@@ -9,4 +9,4 @@ Detail direction:
 
 Park the car by the side of school front gate shows in the red circle of the map. 
 
-Driver stay in the car, students will come to the car.
+We stay in the car, students will come to the car.

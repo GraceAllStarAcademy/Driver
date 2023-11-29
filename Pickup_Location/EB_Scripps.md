@@ -9,4 +9,4 @@ Detail direction:
 
 Park the car by the side of the street shows in the red circle of the map. 
 
-Driver stay by the car, students will come to the car.
+We stay by the car, students will looking for us and come to the car.
