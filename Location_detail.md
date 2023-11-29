@@ -4,4 +4,4 @@
 
 # [Sundance](Pickup_Location/Sundance.md)
 
-# [Del Sur](Pickup_Location/Del_Sur.jpg)
+# [Del Sur](Pickup_Location/Del_Sur.md)
