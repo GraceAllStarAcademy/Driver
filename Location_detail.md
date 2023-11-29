@@ -1,5 +1,7 @@
-# [EB Scripps](EB_Scripps.md)
+# [Adobe Bluffs](Pickup_Location/Adobe_Bluffs.md)
 
-# [Sundance](Sundance.md)
+# [EB Scripps](Pickup_Location/EB_Scripps.md)
 
-# [Del Sur](Del_Sur.md)
+# [Sundance](Pickup_Location/Sundance.md)
+
+# [Del Sur](Pickup_Location/Del_Sur.jpg)
