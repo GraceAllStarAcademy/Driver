@@ -1,12 +1,13 @@
 # Sundance
 
-Address: 8944 Twin Trails Dr, San Diego, CA 92129
+## Address: 
+8944 Twin Trails Dr, San Diego, CA 92129
 
-Maps:
+## Maps:
 ![Sundance_Map](Sundance.jpg)
 
-Detail direction:
+## Detail direction:
 
-Park the car by the side of school front gate shows in the red circle of the map. 
+Park the car by the side of school front gate shows in the <span style="color:red">***red circle***</span> of the map. 
 
 We stay in the car, students will come to the car.

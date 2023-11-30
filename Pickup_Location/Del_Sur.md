@@ -1,15 +1,16 @@
 # Del Sur
 
-Address: 15665 Paseo Del Sur, San Diego, CA 92127
+## Address: 
+15665 Paseo Del Sur, San Diego, CA 92127
 
-Maps:
+## Maps:
 ![Del_Sur_Map](Del_Sur.jpg)
 
-Detail direction:
+## Detail direction:
 
-Park the car by the side of school playground gate shows in the ***red circle*** of the map. 
+Park the car by the side of school playground gate shows in the <span style="color:red">***red circle***</span> of the map. 
 
-Lock the door and head to the ***green circle*** area to pick up ESS and K students first. Once picked, go to ***blue circle*** to pick up any 1st grader. Once all picked, go to ***yellow circle*** to pick rest of kids. 
+Lock the door and head to the <span style="color:green">***green circle***</span> area to pick up ESS and K students first. Once picked, go to <span style="color:blue">***blue circle***</span> to pick up any 1st grader. Once all picked, go to <span style="color:yellow">***yellow circle***</span> to pick rest of kids. 
 
 *Note: some bigger kids may walked to your car already.
 
