@@ -8,12 +8,12 @@
 
 ## Detail direction:
 
-Park the car by the curb of the drive way shows in the <span style="color:red">***red circle***</span> of the map. 
+> Park the car by the curb of the drive way shows in the <span style="color:red">***red circle***</span> of the map. 
 
 ### For TK: 
 
-Kids will come out from <span style="color:green">***green circle***</span> area. We have to walk to there to pick up them.
+> Kids will come out from <span style="color:green">***green circle***</span> area. We have to walk to there to pick up them.
 
 ### For 1st and Up: 
 
-Kids will come out from <span style="color:blue">***blue circle***</span> area. We have to stand by the side of the car, students will looking for you and come to the car.
+> Kids will come out from <span style="color:blue">***blue circle***</span> area. We have to stand by the side of the car, students will looking for you and come to the car.

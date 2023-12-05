@@ -8,6 +8,6 @@
 
 ## Detail direction:
 
-Park the car by the side of the street shows in the <span style="color:red">***red circle***</span> of the map. 
+> Park the car by the curbside shows in the <span style="color:red">***red circle***</span> of the map. 
 
-We stay by the car, students will looking for us and come to the car.
+> We stay by the car, students will looking for us and come to the car.
