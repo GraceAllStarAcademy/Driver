@@ -4,8 +4,7 @@
 12642 Monte Vista Rd, Poway, CA 92064
 
 ## Maps:
-![Country_Montessori_Map](Country.jpg)
-
+![Country Montessori Map](Country.jpg)
 
 ## Detail direction:
 

@@ -4,7 +4,7 @@
 15665 Paseo Del Sur, San Diego, CA 92127
 
 ## Maps:
-![Del_Sur_Map](Del_Sur.jpg)
+![Del Sur Map](Del_Sur.jpg)
 
 ## Detail direction:
 

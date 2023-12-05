@@ -4,8 +4,7 @@
 9225 Adolphia St, San Diego, CA 92129
 
 ## Maps:
-![Canyon_View](Canyon_View.jpg)
-
+![Canyon View Map](Canyon_View.jpg)
 
 ## Detail direction:
 

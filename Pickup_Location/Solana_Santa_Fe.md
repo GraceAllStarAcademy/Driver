@@ -4,7 +4,7 @@
 6570 El Apajo, Rancho Santa Fe, CA 92091
 
 ## Maps:
-![Solana_Santa_Fe](Solana_Santa_Fe.jpg)
+![Solana Santa Fe Map](Solana_Santa_Fe.jpg)
 
 ## Detail direction:
 

@@ -4,7 +4,7 @@
 17250 Tannin Dr, Poway, CA 92064
 
 ## Maps:
-![Chaparral_Map](Chaparral.jpg)
+![Chaparral Map](Chaparral.jpg)
 
 ## Detail direction:
 

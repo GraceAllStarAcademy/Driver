@@ -3,7 +3,7 @@
 ## [Chaparral](Pickup_Location/Chaparral.md)
 ## [Country Montessori](Pickup_Location/Country.md)
 ## [Creekside](Pickup_Location/Creekside.md)
-## [Deer Canyon]()
+## [Deer Canyon](Pickup_Location/Deer_Canyon.md)
 ## [Del Sur](Pickup_Location/Del_Sur.md)
 ## [Design 39]()
 ## [Dingeman]()

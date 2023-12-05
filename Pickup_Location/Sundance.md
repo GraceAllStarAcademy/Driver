@@ -4,7 +4,7 @@
 8944 Twin Trails Dr, San Diego, CA 92129
 
 ## Maps:
-![Sundance_Map](Sundance.jpg)
+![Sundance Map](Sundance.jpg)
 
 ## Detail direction:
 
