@@ -1,5 +1,5 @@
-## [Adobe Bluffs](Pickup_Location/Adobe_Bluffs.md)
-## [Canyon View](Pickup_Location/Canyon_View.md)
+### [Adobe Bluffs](Pickup_Location/Adobe_Bluffs.md)
+### [Canyon View](Pickup_Location/Canyon_View.md)
 ## [Chaparral](Pickup_Location/Chaparral.md)
 ## [Country Montessori](Pickup_Location/Country.md)
 ## [Creekside](Pickup_Location/Creekside.md)
