@@ -5,7 +5,7 @@
 ## [Creekside](Pickup_Location/Creekside.md)
 ## [Deer Canyon](Pickup_Location/Deer_Canyon.md)
 ## [Del Sur](Pickup_Location/Del_Sur.md)
-## [Design 39]()
+## [Design 39](Pickup_Location/Design_39.md)
 ## [Dingeman]()
 ## [EB Scripps](Pickup_Location/EB_Scripps.md)
 ## [Garden Road]()
