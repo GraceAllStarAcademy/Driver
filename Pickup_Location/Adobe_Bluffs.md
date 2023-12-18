@@ -12,7 +12,7 @@
 
 ### For TK: 
 
-> Kids will come out from <span style="color:green">***green circle***</span> area. We have to walk to there to pick up
+> Kids will come out from <span style="color:green">***green circle***</span> area. We have to walk to there to pick up.
 
 ### For K and Up: 
 

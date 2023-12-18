@@ -10,5 +10,5 @@
 
 > Line-Up the car in the <span style="color:red">***red circle***</span> area of the map. It is a drive-thru pick up. We stay in the car and the onsite teacher will help us find the students.
 
-> ### For TK: 
+### For TK: 
 > At a Different Location, Ask Mr. Jeff for detail: 858-649-9760
