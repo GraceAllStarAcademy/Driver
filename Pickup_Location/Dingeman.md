@@ -4,7 +4,7 @@
 11840 Scripps Creek Dr, San Diego, CA 92131
 
 ## Maps:
-![Dingeman Map](Dingeman.jpg)
+![Dingeman Map](Dingeman.png)
 
 ## Detail direction:
 

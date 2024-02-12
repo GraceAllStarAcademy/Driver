@@ -4,7 +4,7 @@
 15546 Pomerado Rd, Poway, CA 92064
 
 ## Maps:
-![St. Michael Map](St_Michael.jpg)
+![St. Michael Map](St_Michael.png)
 
 ## Detail direction:
 

@@ -4,7 +4,7 @@
 12362 Springhurst Dr, San Diego, CA 92128
 
 ## Maps:
-![Creekside Map](Creekside.jpg)
+![Creekside Map](Creekside.png)
 
 ## Detail direction:
 

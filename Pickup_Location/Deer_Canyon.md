@@ -4,7 +4,7 @@
 13455 Russet Leaf Ln, San Diego, CA 92129
 
 ## Maps:
-![Deer Canyon Map](Deer_Canyon.jpg)
+![Deer Canyon Map](Deer_Canyon.png)
 
 ## Detail direction:
 

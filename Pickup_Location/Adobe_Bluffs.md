@@ -4,7 +4,7 @@
 8707 Adobe Bluffs Dr, San Diego, CA 92129
 
 ## Maps:
-![Adobe Bluffs Map](Adobe_Bluffs.jpg)
+![Adobe Bluffs Map](Adobe_Bluffs.png)
 
 ## Detail direction:
 
