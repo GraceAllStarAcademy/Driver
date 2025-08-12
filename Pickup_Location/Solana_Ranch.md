@@ -3,6 +3,16 @@
 ## Address: 
 13605 Pacific Highlands Ranch Pkwy, San Diego, CA 92130
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Solana Ranch Map](Solana_Ranch.jpg)
 

@@ -3,6 +3,16 @@
 ## Address: 
 8375 Entreken Way, San Diego, CA 92129
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Mesa Verde Map](Mesa_Verde.jpg)
 

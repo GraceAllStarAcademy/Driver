@@ -3,6 +3,16 @@
 ## Address: 
 15546 Pomerado Rd, Poway, CA 92064
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![St. Michael Map](St_Michael.png)
 

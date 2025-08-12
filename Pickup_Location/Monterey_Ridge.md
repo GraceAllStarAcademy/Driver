@@ -3,6 +3,16 @@
 ## Address: 
 17117 4S Ranch Pkwy, San Diego, CA 92127
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Monterey Ridge Map](Monterey_Ridge.jpg)
 

@@ -3,6 +3,16 @@
 ## Address: 
 14727 Via Azul, San Diego, CA 92127
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Willow Grove Map](Willow_Grove.jpg)
 

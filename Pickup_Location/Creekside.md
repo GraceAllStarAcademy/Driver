@@ -3,6 +3,16 @@
 ## Address: 
 12362 Springhurst Dr, San Diego, CA 92128
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Creekside Map](Creekside.png)
 

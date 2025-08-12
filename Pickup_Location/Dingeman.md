@@ -3,6 +3,16 @@
 ## Address: 
 11840 Scripps Creek Dr, San Diego, CA 92131
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Dingeman Map](Dingeman.png)
 

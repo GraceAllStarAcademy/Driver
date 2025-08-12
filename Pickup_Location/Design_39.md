@@ -3,6 +3,16 @@
 ## Address: 
 17050 Del Sur Ridge Rd, San Diego, CA 92127
 
+---
+
+## 🕒 Dismissal Times
+
+| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
+|-----------------|-----------------------|-----------|
+| All Grades      | 2:05 PM               | 12:25 PM  |
+
+---
+
 ## Maps:
 ![Design 39 Map](Design_39.jpg)
 
