@@ -34,6 +34,7 @@ Select your school below to see **pickup maps, instructions, dismissal times, an
 
 ## P–S
 - [**Park Village**](Pickup_Location/Park_Village.md)
+- [**Rolling Hills**](Pickup_Location/Rolling_Hills.md)
 - [**Solana Ranch**](Pickup_Location/Solana_Ranch.md)
 - [**Solana Santa Fe**](Pickup_Location/Solana_Santa_Fe.md)
 - [**St. Michael**](Pickup_Location/St_Michael.md)
