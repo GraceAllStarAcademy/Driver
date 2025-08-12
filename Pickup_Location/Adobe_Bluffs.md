@@ -6,7 +6,7 @@
 ---
 
 ## 📍 Pickup Spot
-**Location:** Park the car by the curb of the driveway shown in the **red circle** on the map below.  
+**Location:** Park the car by the curb of the driveway shown in the <span style="color:red">**red circle**</span> on the map below.  
 
 ![Adobe Bluffs Map](Adobe_Bluffs.png)
 
@@ -21,6 +21,7 @@
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
 |-----------------|-----------------------|-----------|
 | All Grades      | 2:05 PM               | 12:25 PM  |
@@ -30,11 +31,11 @@
 ## 🧾 Student Pickup Instructions
 
 ### **TK**
-- Students will exit from the **green circle** area on the map.  
+- Students will exit from the <span style="color:green">**green circle**</span> area on the map.  
 - Driver must **walk to the green circle** to pick up the student.
 
 ### **Kindergarten & Up**
-- Students will exit from the **blue circle** area on the map.  
+- Students will exit from the <span style="color:blue">**blue circle**</span> area on the map.  
 - Driver should **stand by the side of the car** in the red circle zone.  
 - Students will locate the driver and walk to the vehicle.
 
