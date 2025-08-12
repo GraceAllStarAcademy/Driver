@@ -1,27 +1,59 @@
-# Del Sur
+# 🚌 Del Sur — Pickup Instructions
 
-## Address: 
-15665 Paseo Del Sur, San Diego, CA 92127
+**Address:** 15665 Paseo Del Sur, San Diego, CA 92127  
+**Last Verified:** 2025-08-11
+
+---
+
+## 📍 Pickup Spot
+**Location:** Park the car by the side of the school playground gate shown in the **red circle** on the map below.
+
+![Del Sur Map](Del_sur.png)
+
+---
+
+## 🛣️ Driver Route
+1. Enter and park at the **red circle** area near the playground gate.  
+2. Follow the grade-specific pickup steps below.  
+3. Exit the school area safely, following traffic rules.
 
 ---
 
 ## 🕒 Dismissal Times
-
-| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
-|-----------------|-----------------------|-----------|
-| All Grades      | 2:05 PM               | 12:25 PM  |
+| Grade Level | Mon / Tue / Wed / Fri | Thursday |
+|-------------|-----------------------|----------|
+| All Grades  | 3:05 PM               | 1:25 PM  |
 
 ---
 
-## Maps:
-![Del Sur Map](Del_sur.png)
+## 🧾 Student Pickup Instructions
 
-## Detail direction:
+### **ESS & Kindergarten**
+- Lock your vehicle and walk to the **green circle** area.  
+- Pick up ESS and Kindergarten students first.  
+- **ESS pickup:** Go inside the office — ask an onsite teacher for access instructions.
 
-> Park the car by the side of school playground gate shows in the <span style="color:red">***red circle***</span> of the map. 
+### **1st Grade**
+- After picking up ESS and Kindergarten students, proceed to the **blue circle** area to pick up any 1st graders.
 
-> Lock the door and head to the <span style="color:green">***green circle***</span> area to pick up ESS and K students first. Once picked, go to <span style="color:blue">***blue circle***</span> to pick up any 1st grader. Once all picked, go to <span style="color:yellow">***yellow circle***</span> to pick rest of kids. 
+### **2nd Grade & Up**
+- Proceed to the **yellow circle** area to pick up the remaining students.  
+- Some older students may walk directly to your car.
 
-> *Note: some bigger kids may walked to your car already.
+---
 
-> ESS need to go inside the office to pick up, ask one of the onsite teacher for detail instruction on how to access the office to pick up ESS student.
+## ⚠ Safety Notes
+- Always lock your vehicle when leaving to pick up students.  
+- Follow the order: **ESS & K → 1st → 2nd+** for efficient pickup.  
+- Confirm that students are buckled before departing.
+
+---
+
+## 📞 Contacts
+- **Dispatch:** See your driver sheet for phone/text contact.  
+- **Corrections to this page:** [yihengy@graceallstaracademy.com](mailto:yihengy@graceallstaracademy.com)
+
+---
+
+[⬅ Back to Location List](../Location_detail.md) | [🏠 Homepage](../README.md)
+

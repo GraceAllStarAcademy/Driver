@@ -1,29 +1,58 @@
-# Chaparral
+# 🚌 Chaparral — Pickup Instructions
 
-## Address: 
-17250 Tannin Dr, Poway, CA 92064
+**Address:** 17250 Tannin Dr, Poway, CA 92064  
+**Last Verified:** 2025-08-11
+
+---
+
+## 📍 Pickup Spot
+**Location:** Park the car by the curb of the driveway shown in the **red circle** on the map below.
+
+![Chaparral Map](Chaparral.png)
+
+---
+
+## 🛣️ Driver Route
+1. Enter through the main school entrance on Tannin Dr.  
+2. Follow the driveway loop to the **red circle** pickup area.  
+3. Stop and follow dismissal procedures for your assigned grade group.  
+4. Exit the driveway carefully, following school traffic flow.
 
 ---
 
 ## 🕒 Dismissal Times
 
-| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
-|-----------------|-----------------------|-----------|
-| All Grades      | 2:05 PM               | 12:25 PM  |
+| Grade Level | Mon / Tue / Wed / Fri | Thursday |
+|-------------|-----------------------|----------|
+| TK–K        | 2:55 PM               | 1:20 PM  |
+| 1st+        | 3:05 PM               | 1:20 PM  |
 
 ---
 
-## Maps:
-![Chaparral Map](Chaparral.png)
+## 🧾 Student Pickup Instructions
 
-## Detail direction:
+### **TK**
+- Students exit from the **green circle** area on the map.  
+- Driver must **walk to the green circle** to pick up students.
 
-> Park the car by the curb of the drive way shows in the <span style="color:red">***red circle***</span> of the map. 
+### **1st Grade & Up**
+- Students exit from the **blue circle** area on the map.  
+- Driver should **stand by the side of the car** in the red circle zone.  
+- Students will look for the driver and walk to the car.
 
-### For TK: 
+---
 
-> Kids will come out from <span style="color:green">***green circle***</span> area. We have to walk to there to pick up them.
+## ⚠ Safety Notes
+- Do not leave the vehicle unattended in the pickup zone for long periods.  
+- Always keep hazard awareness in school zones.  
+- Ensure students are buckled before moving.
 
-### For 1st and Up: 
+---
 
-> Kids will come out from <span style="color:blue">***blue circle***</span> area. We have to stand by the side of the car, students will looking for you and come to the car.
+## 📞 Contacts
+- **Dispatch:** See your driver sheet for phone/text contact.  
+- **Corrections to this page:** [yihengy@graceallstaracademy.com](mailto:yihengy@graceallstaracademy.com)
+
+---
+
+[⬅ Back to Location List](../Location_detail.md) | [🏠 Homepage](../README.md)

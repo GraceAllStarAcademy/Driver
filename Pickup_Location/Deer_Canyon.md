@@ -1,23 +1,58 @@
-# Deer Canyon
+# 🚌 Deer Canyon — Pickup Instructions
 
-## Address: 
-13455 Russet Leaf Ln, San Diego, CA 92129
+**Address:** 13455 Russet Leaf Ln, San Diego, CA 92129  
+**Last Verified:** 2025-08-11
+
+---
+
+## 📍 Pickup Spot
+**Location:** Park the car by the curbside of the school in the **red circle** area on the map below.
+
+![Deer Canyon Map](Deer_Canyon.png)
+
+---
+
+## 🛣️ Driver Route
+1. Enter the school driveway from Russet Leaf Ln.  
+2. Park at the **red circle** curbside area.  
+3. Follow dismissal steps by grade level (see below).  
+4. Exit the school driveway carefully, following traffic guidelines.
 
 ---
 
 ## 🕒 Dismissal Times
-
-| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
-|-----------------|-----------------------|-----------|
-| All Grades      | 2:05 PM               | 12:25 PM  |
+| Grade Level | Mon / Tue / Wed / Fri | Thursday |
+|-------------|-----------------------|----------|
+| All Grades  | 3:05 PM               | 1:25 PM  |
 
 ---
 
-## Maps:
-![Deer Canyon Map](Deer_Canyon.png)
+## 🧾 Student Pickup Instructions
 
-## Detail direction:
+### **Kindergarten**
+- Lock your vehicle and walk to the **green circle** area on the map.  
+- An onsite teacher will assist in calling out the student.
 
-> Park the car by the curbside of the school in the <span style="color:red">***red circle***</span> area of the map. 
+### **1st Grade**
+- After picking up kindergarten students, proceed to the **blue circle** area.  
+- An onsite teacher will assist in calling out the student.
 
-> Lock the door and head to the <span style="color:green">***green circle***</span> area to pick up K students first, there will be onsite teacher to help you call the student out. Once picked, go to <span style="color:blue">***blue circle***</span> to pick up any 1st grader, there will be onsite teacher to help you call the student out. All other students (2nd and up), will go the car by themselves.
+### **2nd Grade & Up**
+- Students will walk directly to your car at the **red circle** curbside area.
+
+---
+
+## ⚠ Safety Notes
+- Only leave your vehicle when picking up TK/K or 1st grade students as instructed.  
+- Ensure your vehicle is locked when unattended.  
+- Always buckle students before leaving the pickup area.
+
+---
+
+## 📞 Contacts
+- **Dispatch:** See your driver sheet for phone/text contact.  
+- **Corrections to this page:** [yihengy@graceallstaracademy.com](mailto:yihengy@graceallstaracademy.com)
+
+---
+
+[⬅ Back to Location List](../Location_detail.md) | [🏠 Homepage](../README.md)

@@ -1,29 +1,56 @@
-# Monterey Ridge
+# 🚌 Monterey Ridge — Pickup Instructions
 
-## Address: 
-17117 4S Ranch Pkwy, San Diego, CA 92127
+**Address:** 17117 4S Ranch Pkwy, San Diego, CA 92127  
+**Last Verified:** 2025-08-11
+
+---
+
+## 📍 Pickup Spot
+Pickup locations vary by grade level. See grade-specific instructions below.  
+
+![Monterey Ridge Map](Monterey_Ridge.jpg)
+
+---
+
+## 🛣️ Driver Route
+- Enter the school driveway from 4S Ranch Pkwy.  
+- Follow the specific route for your assigned grade group (see below).  
+- Exit the driveway carefully, following school traffic rules.
 
 ---
 
 ## 🕒 Dismissal Times
-
-| Grade Level     | Mon / Tue / Wed / Fri | Thursday  |
-|-----------------|-----------------------|-----------|
-| All Grades      | 2:05 PM               | 12:25 PM  |
+| Grade Level | Mon / Tue / Wed / Fri | Thursday |
+|-------------|-----------------------|----------|
+| All Grades  | 3:05 PM               | 12:25 PM |
 
 ---
 
-## Maps:
-![Monterey Ridge Map](Monterey_Ridge.jpg)
+## 🧾 Student Pickup Instructions
 
-## Detail direction:
+### **TK**
+- Park at the **red circle** curbside area.  
+- Onsite teacher will bring the student out from the **green circle** area.  
+- Walk to the **green circle** to pick up the student.
 
-### For TK: 
+### **Kindergarten & Up**
+- Park at the **yellow circle** curbside area.  
+- Students will exit from the **blue circle** area.  
+- Stand by your vehicle so students can locate you and walk to the car.
 
-> Park the car by the curb of the drive way shows in the <span style="color:red">***red circle***</span> of the map. 
-> Onsite Teacher will bring the student out from the <span style="color:green">***green circle***</span> area. We have to walk to there to pick up.
+---
 
-### For K and Up: 
+## ⚠ Safety Notes
+- Only leave your vehicle when walking to the **green circle** for TK pickup.  
+- Follow all onsite staff instructions for traffic and safety.  
+- Ensure students are buckled before the vehicle moves.
 
-> Park the car by the curb of the drive way shows in the <span style="color:yellow">***yellow circle***</span> of the map. 
-> Kids will come out from <span style="color:blue">***blue circle***</span> area. We have to stand by the side of the car, students will looking for you and come to the car.
+---
+
+## 📞 Contacts
+- **Dispatch:** See your driver sheet for phone/text contact.  
+- **Corrections to this page:** [yihengy@graceallstaracademy.com](mailto:yihengy@graceallstaracademy.com)
+
+---
+
+[⬅ Back to Location List](../Location_detail.md) | [🏠 Homepage](../README.md)
