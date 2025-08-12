@@ -24,6 +24,7 @@ A teacher will assist in calling the student to your vehicle. This is a **drive-
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Wed / Thu | Friday  |
 |-------------|-----------------------|---------|
 | All Grades  | 2:45 PM               | 12:00 PM|

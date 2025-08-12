@@ -22,6 +22,7 @@ Stand by the **green circle** at the school’s front door — students will exi
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Wed / Fri | Thursday |
 |-------------|-----------------------|----------|
 | All Grades  | 3:00 PM               | 12:20 PM |

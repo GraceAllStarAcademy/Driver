@@ -22,6 +22,7 @@ Then walk to the **green circle** area to locate and pick up all assigned studen
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 2:45 PM  |

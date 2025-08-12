@@ -22,6 +22,7 @@ Remain by your vehicle — students will look for you and walk to the car.
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Wed / Fri | Thursday |
 |-------------|-----------------------|----------|
 | All Grades  | 3:15 PM               | 12:30 PM |

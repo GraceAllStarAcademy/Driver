@@ -23,6 +23,7 @@ Kindergarten students must be picked up from the **green circle** area, while ot
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 1:45 PM  |

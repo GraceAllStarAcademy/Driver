@@ -22,6 +22,7 @@ Stand by the side of the car — students will look for you and come to the vehi
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 3:15 PM  |

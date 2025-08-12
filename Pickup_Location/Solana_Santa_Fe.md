@@ -22,6 +22,7 @@ This is a **drive-thru pickup zone** — remain in your vehicle while the onsite
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Thu / Fri | Wed    |
 |-------------|-----------------------|--------|
 | All Grades  | 2:50 PM               | 1:50 PM|

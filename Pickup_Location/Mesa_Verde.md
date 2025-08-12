@@ -22,6 +22,7 @@ If you arrive very early and cannot access the pickup area due to school bus ope
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 2:25 PM  |

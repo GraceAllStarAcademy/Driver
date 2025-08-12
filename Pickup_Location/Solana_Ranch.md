@@ -22,6 +22,7 @@ Students will walk to your vehicle for pickup.
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Thu / Fri | Wed    |
 |-------------|-----------------------|--------|
 | All Grades  | 3:00 PM               | 2:00 PM|

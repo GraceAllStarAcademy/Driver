@@ -23,6 +23,7 @@ You may need a **checkout code** — if required, call **Mr. Jeff** at 858-649-9
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 2:45 PM  |

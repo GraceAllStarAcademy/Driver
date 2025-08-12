@@ -22,6 +22,7 @@ Stand beside your vehicle so students can easily see you and come directly to th
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Wed / Fri | Thursday |
 |-------------|-----------------------|----------|
 | All Grades  | 2:05 PM               | 12:35 PM |

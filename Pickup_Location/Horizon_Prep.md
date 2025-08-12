@@ -22,6 +22,7 @@ This is a **drive-thru pickup zone** — remain in your vehicle while the onsite
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | TK–K        | 2:30 PM  |

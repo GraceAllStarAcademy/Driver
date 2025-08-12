@@ -20,6 +20,7 @@ Pickup locations vary by grade level. See grade-specific instructions below.
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Mon / Tue / Wed / Fri | Thursday |
 |-------------|-----------------------|----------|
 | All Grades  | 2:05 PM               | 12:25 PM |
