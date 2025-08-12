@@ -22,11 +22,10 @@ This is a **drive-thru pickup zone** — remain in the car, and the onsite teach
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 2:45 PM  |
-
-> ⚠ If dismissal times change, update this table immediately.
 
 ---
 
