@@ -23,6 +23,7 @@ or use the drive-thru/curbside pickup lane. Students will exit from the **blue c
 ---
 
 ## 🕒 Dismissal Times
+
 | Grade Level | Everyday |
 |-------------|----------|
 | All Grades  | 1:45 PM  |
