@@ -24,12 +24,13 @@ Select your school below to see **pickup maps, instructions, dismissal times, an
 
 ---
 
-## H–M
+## H–O
 - [**Highland Ranch**](Pickup_Location/Highland_Ranch.md)
 - [**Horizon Prep**](Pickup_Location/Horizon_Prep.md)
 - [**Lifetime Montessori**](Pickup_Location/Lifetime.md)
 - [**Mesa Verde**](Pickup_Location/Mesa_Verde.md)
 - [**Monterey Ridge**](Pickup_Location/Monterey_Ridge.md)
+- [**Oak Valley**](Pickup_Location/Oak_Valley.md)
 
 ---
 
