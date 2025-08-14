@@ -1,23 +1,22 @@
 # 🚌 Highland Ranch — Pickup Instructions
 
 **Address:** 14840 Waverly Downs Way, San Diego, CA 92128  
-**Last Verified:** 2025-08-11
+**Last Verified:** 2025-08-13
 
 ---
 
 ## 📍 Pickup Spot
-**Location:** Park in the specific parking lot designated for school buses at the **red circle** on the map,  
-or use the drive-thru/curbside pickup lane. Students will exit from the **blue circle** area.
+**Location:** Follow along the <span style="color:red">**red arrows**</span> to enter the parking lot and line up with other cars, it is drive-thru pickup and students will exit from the <span style="color:blue">**blue circle**</span> gate and find our van. (Notice, the first day will need teacher to park our car in the parking lot and walk to the gate to looking for the student)
 
 ![Highland Ranch Map](Highland_Ranch.jpg)
 
 ---
 
 ## 🛣️ Driver Route
-1. Enter from Waverly Downs Way.  
-2. If parking in the **red circle** bus parking area, ensure your vehicle is not blocking bus operations.  
+1. Enter from Eastbourne Rd.  
+2. If parking in the <span style="color:red">**red circle**</span> parking lot, ensure your vehicle is locked.  
 3. If using the drive-thru lane, proceed to the curbside pickup area.  
-4. Students will exit from the **blue circle** location and come to your vehicle.  
+4. Students will exit from the <span style="color:blue">**blue circle**</span> location and come to your vehicle.  
 5. Exit carefully, following the school’s traffic flow.
 
 ---
@@ -30,8 +29,7 @@ or use the drive-thru/curbside pickup lane. Students will exit from the **blue c
 
 ---
 
-## ⚠ Safety Notes
-- Do not block bus movements when parked in the **red circle** area.  
+## ⚠ Safety Notes 
 - Follow school staff instructions for safe dismissal.  
 - Ensure students are buckled before leaving the pickup zone.
 

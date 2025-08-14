@@ -1,7 +1,7 @@
 # 🚌 Park Village — Pickup Instructions
 
 **Address:** 7930 Park Village Rd, San Diego, CA 92129  
-**Last Verified:** 2025-08-11
+**Last Verified:** 2025-08-13
 
 ---
 
