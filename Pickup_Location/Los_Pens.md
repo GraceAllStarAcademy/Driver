@@ -1,7 +1,7 @@
 # 🚌 Los Penasquitos — Pickup Instructions
 
 **Address:** 14125 Cuca St, San Diego, CA 92129  
-**Last Verified:** 20265-03-17
+**Last Verified:** 2026-03-17
 
 ---
 
